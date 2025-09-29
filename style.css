@@ -673,7 +673,7 @@ textarea::placeholder {
 footer{
   background-color : #8001ff;
   text-align : center;
-  height : 5vh;
+  height : 7vh;
   width  : 100vw;
   
 }
@@ -932,4 +932,5 @@ footer p{
     width: 3.5rem;
     font-size: 0.7rem;
   }
+
 }
